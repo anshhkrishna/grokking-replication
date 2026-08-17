@@ -1,0 +1,33 @@
+baseline: p=97 vocab_size=98 train=(4704, 4) test=(4705, 4) weight_decay=0.0
+model: n_layers=2 d_model=24 d_mlp=96 batch_size=512 lr=0.002 num_steps=6000 model_seed=0 batch_seed=1
+step     1/6000  wd=0  batch_loss=4.7020  train_acc=0.0108  test_acc=0.0106
+step   200/6000  wd=0  batch_loss=4.3019  train_acc=0.0432  test_acc=0.0064
+step   400/6000  wd=0  batch_loss=3.5968  train_acc=0.1392  test_acc=0.0115
+step   600/6000  wd=0  batch_loss=1.7107  train_acc=0.4428  test_acc=0.1169
+step   800/6000  wd=0  batch_loss=0.9747  train_acc=0.6792  test_acc=0.2142
+step  1000/6000  wd=0  batch_loss=0.5618  train_acc=0.8123  test_acc=0.2646
+step  1200/6000  wd=0  batch_loss=0.3628  train_acc=0.8956  test_acc=0.2916
+step  1400/6000  wd=0  batch_loss=0.2017  train_acc=0.9341  test_acc=0.3075
+step  1600/6000  wd=0  batch_loss=0.1861  train_acc=0.9602  test_acc=0.3248
+step  1800/6000  wd=0  batch_loss=0.2542  train_acc=0.9298  test_acc=0.3175
+step  2000/6000  wd=0  batch_loss=0.0487  train_acc=0.9940  test_acc=0.3399
+step  2200/6000  wd=0  batch_loss=0.0116  train_acc=1.0000  test_acc=0.3532
+step  2400/6000  wd=0  batch_loss=0.0069  train_acc=1.0000  test_acc=0.3543
+step  2600/6000  wd=0  batch_loss=0.0056  train_acc=1.0000  test_acc=0.3581
+step  2800/6000  wd=0  batch_loss=0.0040  train_acc=1.0000  test_acc=0.3564
+step  3000/6000  wd=0  batch_loss=0.0031  train_acc=1.0000  test_acc=0.3545
+step  3200/6000  wd=0  batch_loss=0.0023  train_acc=1.0000  test_acc=0.3583
+step  3400/6000  wd=0  batch_loss=0.0020  train_acc=1.0000  test_acc=0.3575
+step  3600/6000  wd=0  batch_loss=0.0014  train_acc=1.0000  test_acc=0.3577
+step  3800/6000  wd=0  batch_loss=0.0012  train_acc=1.0000  test_acc=0.3592
+step  4000/6000  wd=0  batch_loss=0.0009  train_acc=1.0000  test_acc=0.3603
+step  4200/6000  wd=0  batch_loss=0.0009  train_acc=1.0000  test_acc=0.3594
+step  4400/6000  wd=0  batch_loss=0.0007  train_acc=1.0000  test_acc=0.3603
+step  4600/6000  wd=0  batch_loss=0.0007  train_acc=1.0000  test_acc=0.3630
+step  4800/6000  wd=0  batch_loss=0.0005  train_acc=1.0000  test_acc=0.3628
+step  5000/6000  wd=0  batch_loss=0.0004  train_acc=1.0000  test_acc=0.3634
+step  5200/6000  wd=0  batch_loss=0.0004  train_acc=1.0000  test_acc=0.3637
+step  5400/6000  wd=0  batch_loss=0.0003  train_acc=1.0000  test_acc=0.3628
+step  5600/6000  wd=0  batch_loss=0.0003  train_acc=1.0000  test_acc=0.3632
+step  5800/6000  wd=0  batch_loss=0.0002  train_acc=1.0000  test_acc=0.3645
+step  6000/6000  wd=0  batch_loss=0.0002  train_acc=1.0000  test_acc=0.3622
